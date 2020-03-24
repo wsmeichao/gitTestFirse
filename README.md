@@ -1,3 +1,7 @@
-# 你说这个事asd asd asd 情好不好玩呢
-# 阿萨德金萨达阿萨德阿萨德腹背受敌接口发 稍等发
-# 你说这个事情好不好玩呢
+# git init
+# git add .
+# git commit -m "提交信息"
+# git remote add origin '远程git仓库'
+# git pull origin master --allow-unrelated-histories
+# 合并冲突
+# git push
